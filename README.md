@@ -1,5 +1,5 @@
 
 # React-Landing-Page
-Skincare website landing page developed using React.<br>
+Skincare landing page developed using React.<br><br>
 Live Website https://skinforge.netlify.app/
 
